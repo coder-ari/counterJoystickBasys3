@@ -44,7 +44,6 @@ This project implements a 4-bit decimal up/down counter on the Basys3 FPGA board
 - Learning hardware-software integration for embedded systems.
 
 ## File Structure
-## File Structure
 - **Design Sources**:
   - `PmodJSTK_Demo.v`: Top-level module integrating all components.
   - **joystick**:
